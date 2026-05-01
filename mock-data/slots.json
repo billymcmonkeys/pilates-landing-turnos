@@ -1,0 +1,1042 @@
+[
+  {
+    "date": "2026-04-17",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-04-20",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-04-22",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-04-24",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      }
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      }
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      }
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 5
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 3
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 1
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 7
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 0
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 7
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "slots": [
+      {
+        "time": "08:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "09:30",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "11:00",
+        "totalBeds": 8,
+        "availableBeds": 2
+      },
+      {
+        "time": "14:00",
+        "totalBeds": 8,
+        "availableBeds": 8
+      },
+      {
+        "time": "16:00",
+        "totalBeds": 8,
+        "availableBeds": 6
+      },
+      {
+        "time": "18:00",
+        "totalBeds": 8,
+        "availableBeds": 4
+      },
+      {
+        "time": "19:30",
+        "totalBeds": 8,
+        "availableBeds": 0
+      }
+    ]
+  }
+]
